@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "bracketSpacing": false,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "tailwindStylesheet": "./apps/web/src/styles/main.css"
+}

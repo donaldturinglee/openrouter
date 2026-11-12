@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "build",
+    "noEmit": false
+  },
+  "include": ["main.ts", "api", "framework", "infrastructure", "services"]
+}

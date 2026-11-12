@@ -1,0 +1,12 @@
+node_modules/
+build/
+coverage/
+playwright-report/
+test-results/
+blob-report/
+.turbo/
+package-lock.json
+.claude/
+
+# Drizzle Kit writes the migrations and their snapshots.
+apps/backend/services/*/migrations/
